@@ -1,7 +1,7 @@
-Sentiment Analysis on Amazon Stock through FinViz Website
+#**Sentiment Analysis on Amazon Stock through FinViz Website**
 
 ## **Domain**
-**Finance and Data Analytics.**
+The domain of this project is **Finance and Data Analytics.**
 It combines financial data analysis with sentiment analysis to assess how news sentiment can impact stock market trends, making it relevant for fields like financial analysis, investment research, and market sentiment analysis.
 
 ## **Objective**
