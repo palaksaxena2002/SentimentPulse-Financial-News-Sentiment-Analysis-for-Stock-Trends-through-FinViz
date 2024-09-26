@@ -1,4 +1,4 @@
-#Sentiment Analysis on Amazon Stock through FinViz Website
+Sentiment Analysis on Amazon Stock through FinViz Website
 
 ## **Domain**
 **Finance and Data Analytics.**
