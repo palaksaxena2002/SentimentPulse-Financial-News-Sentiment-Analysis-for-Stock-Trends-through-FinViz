@@ -1,4 +1,4 @@
-#**Sentiment Analysis on Amazon Stock through FinViz Website**
+#SentimentPulse: Financial News Sentiment Analysis for Stock Trends
 
 ## **Domain**
 The domain of this project is **Finance and Data Analytics.**
